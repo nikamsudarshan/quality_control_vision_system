@@ -20,7 +20,7 @@ Modern mechatronics and manufacturing pipelines require intelligent quality cont
 * **Developer Telemetry:** Includes an in-memory JSON telemetry report for operators to view full probability distributions of edge-case parts.
 
 ## 📸 Dashboard Preview
-
+![Preview](image.png)
 
 ## 🧠 Model Architecture & Training
 
@@ -48,3 +48,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+Author: Sudarshan Nikam
